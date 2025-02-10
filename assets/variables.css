@@ -1,0 +1,22 @@
+:root{
+    /* colors */
+    --main-color:#00B98E;
+    --light-green:#EFFDF5;
+    --nav-dark-blue:#0e2e50;
+    
+    --grey-color:#666565;
+    --dark-blue:#0E2E50;
+    --white-color:#fff;
+    --light-grey:rgba(255, 255, 255, 0.5);
+
+    /* font */
+    --main-font:"Inter", sans-serif;
+    --secondary-font:"Heebo", sans-serif;
+    --nav--font-size:15px;
+    --nav-fw:500;
+    --fw-xl:700;
+    --font-size:48px;
+    --header-font-size:16px;
+    /* margins */
+    --main-margin:48px;
+}
