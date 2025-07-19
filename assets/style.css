@@ -3,6 +3,17 @@ body{
     background-color: var(--light-green);
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
+}
+/* Nav Bar */
+nav{
+    background-color: var(--white-color);
+    font-family: var(--secondary-font);
+    text-transform: uppercase;
+    color: var(--nav-dark-blue);
+    font-weight: var(--nav-fw);
+    box-shadow: 0 0 30px rgba(0, 0, 0, .08);
+    font-size: var(--nav--font-size);
 }
 .navbar-brand{
     font-size: var(--nav--font-size);
@@ -15,51 +26,43 @@ body{
 .navbar-brand:hover{
     color: var(--main-color);
 }
-
-nav{
-    display: flex !important;
-    justify-content: space-around !important;
-    width: 83% !important;
-    position: fixed !important;
-    background-color: var(--white-color);
-    font-family: var(--secondary-font);
-    text-transform: uppercase;
-    color: var(--nav-dark-blue);
-    font-weight: var(--nav-fw);
-    box-shadow: 0 0 30px rgba(0, 0, 0, .08);
-    font-size: var(--nav--font-size);
-}
 .nav-link:hover{
-    color: var(--main-color) !important;
+    color: var(--main-color);
 }
-.nav-link.active{
-    color: var(--main-color) !important;
+.navbar .nav-link.active {
+    color: var(--main-color);
 }
 nav .dropdown-menu{
     text-transform: capitalize;
 }
-
 nav .dropdown:hover .dropdown-menu {
     display: inline-block; 
 }
-
-.fa-solid
-{
-    margin-left: .225rem;
-}
+/* Section 1 */
 .btn{
     background-color: var(--main-color);
     color: var(--white-color);
     padding: 6px 16px;
-    border: none !important;
+    border: none;
     font-family: var(--secondary-font);
 }
 .btn:hover{
-    background-color: var(--main-color);
+    background-color: var(--main-color-hover);
     color: var(--white-color);
 }
-.border
-{
+/* SSearch and filter section  */
+.search .row{
+    padding: 35px;
+    background-color: var(--main-color);
+}
+.search button{
+    background-color: var(--dark-blue);
+}
+.search button:hover{
+    background-color: var(--dark-blue-hover);
+}
+/* Categories */
+.border{
     border-color: var(--main-color)!important;
     border-style: dashed !important;
     padding: 8px !important;
@@ -96,6 +99,12 @@ nav .dropdown:hover .dropdown-menu {
 .property-types p{
     text-align: center;
 }
+
+/* Section 4 */
+.check{
+    color: var(--main-color);
+}
+
 .btn-outline{
     background-color: white !important;
     border: solid var(--main-color) !important;

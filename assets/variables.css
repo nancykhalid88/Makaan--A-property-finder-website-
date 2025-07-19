@@ -1,11 +1,13 @@
 :root{
     /* colors */
     --main-color:#00B98E;
+    --main-color-hover:#07c498;
     --light-green:#EFFDF5;
     --nav-dark-blue:#0e2e50;
     
     --grey-color:#666565;
     --dark-blue:#0E2E50;
+    --dark-blue-hover:#203b57;
     --white-color:#fff;
     --light-grey:rgba(255, 255, 255, 0.5);
 
