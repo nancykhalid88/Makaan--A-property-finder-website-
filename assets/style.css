@@ -50,7 +50,7 @@ nav .dropdown:hover .dropdown-menu {
     background-color: var(--main-color-hover);
     color: var(--white-color);
 }
-/* SSearch and filter section  */
+/* Search and filter section  */
 .search .row{
     padding: 35px;
     background-color: var(--main-color);
@@ -62,10 +62,28 @@ nav .dropdown:hover .dropdown-menu {
     background-color: var(--dark-blue-hover);
 }
 /* Categories */
-.border{
-    border-color: var(--main-color)!important;
-    border-style: dashed !important;
-    padding: 8px !important;
+.category-a{
+    text-decoration: none;
+}
+.category-heading{
+    color: var(--dark-blue);
+    font-family: var(--main-font);
+    font-weight: 700;
+}
+.cat-item .category-span{
+    font-size: 16px !important; 
+    font-family: var(--secondary-font); 
+    text-decoration: none;
+}
+.category-card-container .category-border{
+    border-color: var(--border-green);
+    border-style: dashed;
+    padding: 8px;
+}
+.outer-border{
+    padding: 16px;
+    border-radius: 5px;
+    background-color: var(--light-green);
 }
 
 .row h1{
@@ -104,25 +122,61 @@ nav .dropdown:hover .dropdown-menu {
 .check{
     color: var(--main-color);
 }
-
+/* Property Listing */
+.property-listing h1{
+    color: var(--dark-blue)!important; 
+    font-weight: 700!important; 
+    font-family: var(--main-font) !important;
+}
+.property-listing span{
+    color: var(--grey-color);
+}
 .btn-outline{
-    background-color: white !important;
-    border: solid var(--main-color) !important;
-    color: black !important;
-    margin: 5px !important;
+    background-color: white;
+    border: solid var(--main-color);
+    color: black;
+    margin: 5px;
     border-radius: 5px !important;
 }
 .btn-outline.active{
-    background-color: var(--main-color) !important;
-    color: white !important;
+    background-color: var(--main-color);
+    color: white;
 }
 .btn-outline:hover{
-    background-color: var(--main-color) !important;
-    color: white !important;
+    background-color: var(--main-color);
+    color: white;
 }
-.golden:hover{
-    color:var(--main-color) !important;
+.card-price{
+    color: var(--main-color);
+    font-weight: 700; 
+    font-style: var(--main-font); 
+    font-size: 22px;
 }
+.card-title{
+    font-weight: 700; 
+    font-family: var(--main-font);
+}
+.card-title:hover{
+    color:var(--main-color);
+}
+.fa-location-dot{
+    color: var(--main-color);
+}
+.card-body .address{
+    font-size: 16px !important; 
+    color: var(--grey-color) !important;
+}
+.fa-ruler-combined{
+    color: var(--main-color);
+}
+.card-footer span{
+    font-size: 16px !important; 
+    color: var(--grey-color) !important;
+}
+
+
+
+
 .btn-social{
     background-color: var(--dark-blue);
     border: 0.8px solid white !important;
