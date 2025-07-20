@@ -238,18 +238,27 @@ nav .dropdown:hover .dropdown-menu {
     color: white; 
     background-color: var(--dark-blue) !important; 
 }
-
-
+.footer h5{
+    font-size: 20px ; 
+    font-weight: 700; 
+    font-family: var(--main-font);
+}
+.footer .footer-text{
+    color: var(--light-grey)!important;
+}
+.footer i{
+    color: var(--light-grey);
+}
 .btn-social{
     background-color: var(--dark-blue);
-    border: 0.8px solid white !important;
+    border: 0.8px solid white;
     border-radius: 50%;
     margin: 3px;
     padding: 5px 10px 5px 10px;
 }
 .btn-social:hover{
-    background-color: white !important;
+    background-color: white;
 }
-.social:hover{
-    color: var(--main-color) !important;
+.btn-social i:hover{
+    color: var(--main-color);
 }
