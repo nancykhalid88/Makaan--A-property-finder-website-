@@ -174,7 +174,70 @@ nav .dropdown:hover .dropdown-menu {
     color: var(--grey-color) !important;
 }
 
-
+/* Contact */
+.back{
+    background-color: var(--light-green);
+    border-radius: 5px;
+}
+.contact-white-background{
+    border: dashed 1px var(--main-color); 
+    border-radius: 5px;
+}
+.get-appointment{
+    background-color: var(--dark-blue);
+}
+.get-appointment:hover{
+    background-color: var(--dark-blue-hover);
+}
+/* Property Agents */
+.agents-container{
+    text-align: center; 
+    margin-top: 80px; 
+    padding-left: 25%; 
+    padding-right: 25%;
+}
+.agents-container h1{
+    color: var(--dark-blue);
+    font-weight: 700;
+    font-family: var(--main-font);
+}
+.agents-container p{
+    color: var(--grey-color);
+}
+.agent-cards-container .card{
+    border: none;
+    box-shadow: 0 0 30px rgba(0, 0, 0, .08);
+}
+.agent-cards-container h5{
+    font-size: 20px; 
+    font-weight: 700; 
+    font-family: var(--main-font); 
+    color: var(--dark-blue);
+}
+.agent-cards-container p{
+    font-size: 14px; 
+    color: var(--grey-color)!important;
+}
+/* reviews */
+.reviews-container{
+    text-align: center; 
+    margin-top: 80px; 
+    padding-left: 25%; 
+    padding-right: 25%;
+}
+.reviews-container h1{
+    color: var(--dark-blue);
+    font-weight: 700;
+    font-family: var(--main-font);
+}
+.reviews-container p{
+    color: var(--grey-color);
+}
+/* Footer */
+.footer{
+    color: white; 
+    background-color: var(--dark-blue) !important; 
+}
 
 
 .btn-social{
