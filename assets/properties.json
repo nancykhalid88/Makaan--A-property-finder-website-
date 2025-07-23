@@ -321,35 +321,6 @@
             }
         },
         {
-            "id": "P-012",
-            "title": "4 bedroom Condo in Lake Christineport",
-            "price": 1848644,
-            "currency": "USD",
-            "bedrooms": 4,
-            "bathrooms": 3,
-            "areaSqFt": 2443,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "59303 Elizabeth Manors",
-                "city": "Lake Christineport",
-                "state": "NY",
-                "zipCode": "76244",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
-                "https://images.unsplash.com/photo-1617103903121-ef9f03e69c9f",
-                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
-            ],
-            "listedDate": "2025-05-31",
-            "agent": {
-                "name": "Gary Palmer",
-                "phone": "+1-143-331-7912x387",
-                "email": "ismith@gmail.com"
-            }
-        },
-        {
             "id": "P-013",
             "title": "2 bedroom Villa in Samanthamouth",
             "price": 1437495,
@@ -437,35 +408,6 @@
             }
         },
         {
-            "id": "P-016",
-            "title": "4 bedroom Condo in North Johnnymouth",
-            "price": 672237,
-            "currency": "USD",
-            "bedrooms": 4,
-            "bathrooms": 1,
-            "areaSqFt": 4955,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "88112 Young Island",
-                "city": "North Johnnymouth",
-                "state": "UT",
-                "zipCode": "07403",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1572120360610-d971b9b78825",
-                "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
-                "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
-            ],
-            "listedDate": "2025-07-14",
-            "agent": {
-                "name": "Molly King",
-                "phone": "143-257-6982",
-                "email": "zweiss@weber.info"
-            }
-        },
-        {
             "id": "P-017",
             "title": "3 bedroom Townhouse in East Tinaport",
             "price": 730145,
@@ -492,35 +434,6 @@
                 "name": "Terry Johnson",
                 "phone": "078.884.4244",
                 "email": "latoyalee@yahoo.com"
-            }
-        },
-        {
-            "id": "P-018",
-            "title": "6 bedroom Condo in North Williamfurt",
-            "price": 1337893,
-            "currency": "USD",
-            "bedrooms": 6,
-            "bathrooms": 1,
-            "areaSqFt": 1786,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "5032 Martinez Pine Suite 595",
-                "city": "North Williamfurt",
-                "state": "VA",
-                "zipCode": "31161",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1572120360610-d971b9b78825",
-                "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
-                "https://images.unsplash.com/photo-1560185008-5bf9d3b3d0a4"
-            ],
-            "listedDate": "2025-05-05",
-            "agent": {
-                "name": "Veronica Castaneda",
-                "phone": "250.115.1433",
-                "email": "hooperdavid@pitts-sanchez.com"
             }
         },
         {
@@ -579,35 +492,6 @@
                 "name": "John Hamilton",
                 "phone": "056-235-5586x94184",
                 "email": "davilajose@hotmail.com"
-            }
-        },
-        {
-            "id": "P-021",
-            "title": "2 bedroom Condo in Rodriguezshire",
-            "price": 1355378,
-            "currency": "USD",
-            "bedrooms": 2,
-            "bathrooms": 1,
-            "areaSqFt": 996,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "452 Brown Bridge Apt. 307",
-                "city": "Rodriguezshire",
-                "state": "OR",
-                "zipCode": "02562",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
-                "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
-                "https://images.unsplash.com/photo-1617103903121-ef9f03e69c9f"
-            ],
-            "listedDate": "2025-03-31",
-            "agent": {
-                "name": "Kimberly Odom",
-                "phone": "469-678-0224x9724",
-                "email": "sharonstafford@gmail.com"
             }
         },
         {
@@ -724,35 +608,6 @@
                 "name": "Jesse Jones",
                 "phone": "+1-546-268-6030x8156",
                 "email": "wileymaria@hotmail.com"
-            }
-        },
-        {
-            "id": "P-026",
-            "title": "1 bedroom Condo in East Robinview",
-            "price": 1040898,
-            "currency": "USD",
-            "bedrooms": 1,
-            "bathrooms": 1,
-            "areaSqFt": 2698,
-            "type": "Condo",
-            "status": "For Sale",
-            "address": {
-                "street": "890 Martin Corner",
-                "city": "East Robinview",
-                "state": "MO",
-                "zipCode": "17829",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-                "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
-                "https://images.unsplash.com/photo-1568605114967-8130f3a36994"
-            ],
-            "listedDate": "2025-04-13",
-            "agent": {
-                "name": "April Mullins",
-                "phone": "4769179282",
-                "email": "saundersfrances@yahoo.com"
             }
         },
         {
@@ -988,35 +843,6 @@
             }
         },
         {
-            "id": "P-035",
-            "title": "6 bedroom Condo in Andersonmouth",
-            "price": 1598454,
-            "currency": "USD",
-            "bedrooms": 6,
-            "bathrooms": 2,
-            "areaSqFt": 3131,
-            "type": "Condo",
-            "status": "For Sale",
-            "address": {
-                "street": "54559 Rebecca Extension",
-                "city": "Andersonmouth",
-                "state": "AL",
-                "zipCode": "28180",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
-                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-                "https://images.unsplash.com/photo-1599423300746-b62533397364"
-            ],
-            "listedDate": "2025-04-13",
-            "agent": {
-                "name": "Joseph Woodard",
-                "phone": "+1-715-962-1683x157",
-                "email": "rrodriguez@gmail.com"
-            }
-        },
-        {
             "id": "P-036",
             "title": "3 bedroom Townhouse in Gomezshire",
             "price": 1743798,
@@ -1043,35 +869,6 @@
                 "name": "Bryan Krueger II",
                 "phone": "001-766-489-1749x890",
                 "email": "nathan54@sharp-vincent.biz"
-            }
-        },
-        {
-            "id": "P-037",
-            "title": "5 bedroom Condo in East Angelamouth",
-            "price": 1579486,
-            "currency": "USD",
-            "bedrooms": 5,
-            "bathrooms": 4,
-            "areaSqFt": 4960,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "8921 Mia Turnpike",
-                "city": "East Angelamouth",
-                "state": "WV",
-                "zipCode": "43771",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
-                "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
-                "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
-            ],
-            "listedDate": "2025-04-07",
-            "agent": {
-                "name": "Alexandra Greene",
-                "phone": "488.637.3862x821",
-                "email": "kennethowens@carter.biz"
             }
         },
         {
@@ -1159,35 +956,6 @@
                 "name": "Michael Davis",
                 "phone": "001-678-706-8498x78674",
                 "email": "gary16@mcgrath.info"
-            }
-        },
-        {
-            "id": "P-041",
-            "title": "5 bedroom Condo in Jenniferfort",
-            "price": 1390071,
-            "currency": "USD",
-            "bedrooms": 5,
-            "bathrooms": 2,
-            "areaSqFt": 2104,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "7229 Elaine Lodge",
-                "city": "Jenniferfort",
-                "state": "OH",
-                "zipCode": "49353",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-                "https://images.unsplash.com/photo-1599427301658-161d9b72a0ab",
-                "https://images.unsplash.com/photo-1617103903121-ef9f03e69c9f"
-            ],
-            "listedDate": "2025-06-11",
-            "agent": {
-                "name": "Jeffery Vaughn",
-                "phone": "648.380.0128x042",
-                "email": "scottwaters@yahoo.com"
             }
         },
         {
@@ -1333,35 +1101,6 @@
                 "name": "Anna Hudson",
                 "phone": "0395920137",
                 "email": "randy54@alexander.net"
-            }
-        },
-        {
-            "id": "P-047",
-            "title": "3 bedroom Condo in East Jeffreyfurt",
-            "price": 540528,
-            "currency": "USD",
-            "bedrooms": 3,
-            "bathrooms": 3,
-            "areaSqFt": 644,
-            "type": "Condo",
-            "status": "For Sale",
-            "address": {
-                "street": "8326 Cox Burgs",
-                "city": "East Jeffreyfurt",
-                "state": "OK",
-                "zipCode": "79817",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1572120360610-d971b9b78825",
-                "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
-                "https://images.unsplash.com/photo-1599427301658-161d9b72a0ab"
-            ],
-            "listedDate": "2025-07-13",
-            "agent": {
-                "name": "Mr. Gary Greer",
-                "phone": "+1-445-469-3935x1714",
-                "email": "angiewilkerson@vasquez.com"
             }
         },
         {
@@ -1626,64 +1365,6 @@
             }
         },
         {
-            "id": "P-057",
-            "title": "2 bedroom Condo in Brownmouth",
-            "price": 1360328,
-            "currency": "USD",
-            "bedrooms": 2,
-            "bathrooms": 4,
-            "areaSqFt": 603,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "9603 Smith Cliffs Suite 227",
-                "city": "Brownmouth",
-                "state": "CT",
-                "zipCode": "47935",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
-                "https://images.unsplash.com/photo-1617103903121-ef9f03e69c9f",
-                "https://images.unsplash.com/photo-1599423300746-b62533397364"
-            ],
-            "listedDate": "2025-03-28",
-            "agent": {
-                "name": "Craig Morgan",
-                "phone": "318-683-4795",
-                "email": "christopher26@williams.net"
-            }
-        },
-        {
-            "id": "P-058",
-            "title": "1 bedroom Condo in Port Daniel",
-            "price": 130194,
-            "currency": "USD",
-            "bedrooms": 1,
-            "bathrooms": 3,
-            "areaSqFt": 1479,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "22774 Tyler Center Apt. 256",
-                "city": "Port Daniel",
-                "state": "MA",
-                "zipCode": "24157",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1599427301658-161d9b72a0ab",
-                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
-                "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2"
-            ],
-            "listedDate": "2025-02-11",
-            "agent": {
-                "name": "Jessica Wright",
-                "phone": "(870)832-8340x29530",
-                "email": "bryan27@hotmail.com"
-            }
-        },
-        {
             "id": "P-059",
             "title": "2 bedroom Single Family in Port Christian",
             "price": 1560270,
@@ -1710,64 +1391,6 @@
                 "name": "James Reed",
                 "phone": "+1-552-905-7055x1009",
                 "email": "courtneyward@gmail.com"
-            }
-        },
-        {
-            "id": "P-060",
-            "title": "2 bedroom Condo in Robertport",
-            "price": 1947615,
-            "currency": "USD",
-            "bedrooms": 2,
-            "bathrooms": 1,
-            "areaSqFt": 2586,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "975 Higgins Fords Apt. 233",
-                "city": "Robertport",
-                "state": "PA",
-                "zipCode": "25219",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1560185008-5bf9d3b3d0a4",
-                "https://images.unsplash.com/photo-1599423300746-b62533397364",
-                "https://images.unsplash.com/photo-1599427301658-161d9b72a0ab"
-            ],
-            "listedDate": "2025-04-27",
-            "agent": {
-                "name": "Teresa Garcia",
-                "phone": "(159)828-3859x278",
-                "email": "courtney84@newton.com"
-            }
-        },
-        {
-            "id": "P-061",
-            "title": "6 bedroom Condo in Wardhaven",
-            "price": 1841688,
-            "currency": "USD",
-            "bedrooms": 6,
-            "bathrooms": 2,
-            "areaSqFt": 2410,
-            "type": "Condo",
-            "status": "For Rent",
-            "address": {
-                "street": "906 William Harbors Apt. 311",
-                "city": "Wardhaven",
-                "state": "MS",
-                "zipCode": "18794",
-                "country": "USA"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
-                "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2",
-                "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
-            ],
-            "listedDate": "2025-04-13",
-            "agent": {
-                "name": "Carlos Ballard",
-                "phone": "349.426.2232x804",
-                "email": "garciabailey@yahoo.com"
             }
         }
     ]
