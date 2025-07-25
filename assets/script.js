@@ -16,11 +16,11 @@ document.addEventListener("DOMContentLoaded", () => {
             const card=document.createElement("div");
             card.classList.add("card", "h-70", "main-card");
 
-            const img=document.createElement("img");
-            img.src=property.images[0];
-            img.alt=property.title;
-            img.className = "card-img-top";
-            img.loading = "lazy";
+            // const img=document.createElement("img");
+            // img.src=property.images[0];
+            // img.alt=property.title;
+            // img.className = "card-img-top";
+            // img.loading = "lazy";
 
         });
         
