@@ -1,0 +1,54 @@
+@import url(./variables.css);
+body{
+    background-color: var(--light-green);
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+/* Nav Bar */
+nav{
+    background-color: var(--white-color);
+    font-family: var(--secondary-font);
+    text-transform: uppercase;
+    color: var(--nav-dark-blue);
+    font-weight: var(--nav-fw);
+    box-shadow: 0 0 30px rgba(0, 0, 0, .08);
+    font-size: var(--nav--font-size);
+}
+.navbar-brand{
+    font-size: var(--nav--font-size);
+    color: var(--main-color);
+    font-family: var(--main-font);
+    font-weight: var(--fw-xl);
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.navbar-brand:hover{
+    color: var(--main-color);
+}
+.nav-link:hover{
+    color: var(--main-color);
+}
+.navbar .nav-link.active {
+    color: var(--main-color);
+}
+nav .dropdown-menu{
+    text-transform: capitalize;
+}
+nav .dropdown:hover .dropdown-menu {
+    display: inline-block; 
+}
+.btn{
+    background-color: var(--main-color);
+    color: var(--white-color);
+    padding: 6px 16px;
+    border: none;
+    font-family: var(--secondary-font);
+}
+.btn:hover{
+    background-color: var(--main-color-hover);
+    color: var(--white-color);
+}
+.section-1{
+    margin-top: 70px;
+}
