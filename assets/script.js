@@ -94,6 +94,12 @@ document.addEventListener("DOMContentLoaded", () => {
         });
         
     }
+
+    document.getElementById("browse-more").onclick=function(){
+        fetchItems().then(properties => {
+            displayProperty(properties);
+        });
+    }
     fetchItems().then(properties => {
     const firstSix = properties.slice(0, 6);
     displayProperty(firstSix);
