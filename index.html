@@ -74,7 +74,7 @@
                 <div class="col-md-6 p-5 mt-lg-5">
                     <h1 class="mb-4 display-5 animated fadeIn">Find A <span class="text-primary">Perfect Home</span> To Live With Your Family</h1>
                     <p class="animated fadeIn mb-4 pb-2">Discover the ideal place where comfort meets convenience. A home built for lasting memories, designed with your family in mind.</p>
-                    <a href="index.html" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Get Started</a>
+                    <a href="#property-listing" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Get Started</a>
                 </div>
 
         <!-- RIGHT SIDE -->
@@ -297,7 +297,7 @@
 
         <!-- PROPERTY LISTING  -->
                 <!-- TEXT -->
-        <div class="container">
+        <div class="container" id="property-listing">
             <div class="row align-items-center property-listing" data-aos="fade-right" data-aos-once="true" data-aos-duration="1000">
                 <!-- Heading Text -->
                 <div class="col-md-6 mt-4 mt-md-5 listing align-items-center">
@@ -318,13 +318,15 @@
 
             
                 <!-- PROPERTY CARDS -->
-                <div class="container my-4">
-                    <div class="row row-cols-1 row-cols-md-3 g-4" id="property-card"></div>
+                <div class="myimg-wrapper">
+                    <div class="container my-4">
+                        <div class="row row-cols-1 row-cols-md-3 g-4" id="property-card"></div>
+                    </div>
                 </div>
-                
+
                 <!-- Browse more button -->
                 <div class="d-grid gap-2 col-3 mx-auto">
-                    <button class="btn btn-primary py-3 px-2 mt-3 mb-5" type="button">Browse More Property</button>
+                    <button id="browse-more" class="btn btn-primary py-3 px-2 mt-3 mb-5" type="button">Browse More Property</button>
                 </div>
             
 
